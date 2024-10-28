@@ -2,6 +2,12 @@
 
 ## Stages of the MLOps Project
 
+**Pre-Preparation**
+
+- Clone from Common folder structure
+- Run init_setup.sh file
+- Activate venv
+
 1. **Build: Model Development**
    - **Tools**: Git, GitHub, Python
    - **Activities**: Develop the machine learning model, use Git for version control, and push the code to GitHub.
